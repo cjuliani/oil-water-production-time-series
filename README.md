@@ -2,7 +2,7 @@
 This project implements a simple GRU model to predict oil and water productions from two wells
 using time series data.
 
-![app_figure](./readme/fig1.png)
+![app_figure](./readme/fig0.png)
  
 ## Environment
 Please, consider Jupyter notebook to study the project.
